@@ -31,3 +31,4 @@ class spaceship:
 mon_vaisseau=spaceship([1,2],20,"none")
 mon_vaisseau.set_pv(10)
 print(mon_vaisseau.get_pv())
+print("bjr")
